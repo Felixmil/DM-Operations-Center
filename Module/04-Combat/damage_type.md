@@ -4,9 +4,9 @@ slug: damage-type
 parent: combat
 ---
 ### Damage Type
-[Home](dm-operations-center) > [Combat](combat) > Damage Type {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > Damage Type {.small-text}
 
-|             |                                   |
+|||
 | ----------- | --------------------------------- |
 | Acid        | Corrosive chemicals & monsters    |
 | Bludgeoning | Blunt force trauma like hammers   |

@@ -4,14 +4,14 @@ slug: copy-scroll
 parent: spellcasting
 ---
 ### Copy Scroll
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > Copy Scroll {.small-text}
+[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Copy Scroll {.small-text}
 
-Copying a scroll into a spellbook requires an Intelligence (Arcana) skill check.
+Copying a scroll into a spellbook requires an [Intelligence](intelligence) ([Arcana](arcana)) [skill check](ability-checks).
 
- DC = 10 + Spell Level {.text-center}
+ [DC](difficulty-class) = 10 + Spell Level {.text-center}
  
-- Copying takes 2 hours & 50gp per level
-- Scroll is destroyed regardless of roll.
+- Copying takes 2 hours & 50 gp per level
+- The scroll is destroyed regardless of the roll.
 {.square}
 
 > **Sources** <br/>

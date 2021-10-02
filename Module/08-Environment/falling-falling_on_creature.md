@@ -4,14 +4,15 @@ slug: falling-on-creature
 parent: falling
 ---
 ### Falling on a Creature
-[Home](dm-operations-center) > [Environment](environment) > [Falling](falling) > Falling on Creature {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > [Falling](falling) > Falling on Creature {.small-text}
+
 A creature about to be landed on may attempt to avoid being hit by the falling creature.
 
-**DC15 DEX saving throw** {.text-center}
+**[DC](difficulty-class) 15 [DEX](dexterity) [saving throw](saving-throws)** {.text-center}
 
-If successful they take no damage, otherwise they take 1/2 of the falling creature's damage and are knocked prone.
+If successful, it takes no damage. Otherwise, it takes 1/2 of the falling creature's damage and is knocked [prone](prone).
 
-***Note**: The creature takes no damage if they are two or more sizes larger than falling creature.*
+***Note**: A creature takes no damage if it is two or more sizes larger than the falling creature.*
 
 > **Sources** <br/>
 > Tasha's Cauldron of Everything, p. 170

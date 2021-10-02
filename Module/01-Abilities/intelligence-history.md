@@ -4,11 +4,11 @@ slug: history
 parent: intelligence
 ---
 ### History
-[Home](dm-operations-center) > [Abilities](abilities) > [Intelligence](intelligence) > History {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > [Intelligence](intelligence) > History {.small-text}
 
 Knowledge of history, people, and things.
 
-| ~DC~ | ~Example~                                          |
+| [DC](difficulty-class) | Example                          |
 | :--: | :------------------------------------------------- |
 |  10  | Recall lore about a recent historical event.       |
 |  15  | Recognize the symbols of a far-off land.           |

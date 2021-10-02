@@ -4,11 +4,11 @@ slug: intimidation
 parent: charisma
 ---
 ### Intimidation
-[Home](dm-operations-center) > [Abilities](abilities) > [Charisma](charisma) > Intimidation {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > [Charisma](charisma) > Intimidation {.small-text}
 
 Influence others via threat or coercion.
 
-| ~DC~ | ~Example~                                  |
+| [DC](difficulty-class) | Example                  |
 | :--: | :----------------------------------------- |
 |  10  | Threaten a merchant for a better deal.     |
 |  15  | Coerce information from a reluctant NPC.   |

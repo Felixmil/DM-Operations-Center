@@ -4,21 +4,21 @@ slug: bonus-action
 parent: combat
 ---
 ### Bonus Action
-[Home](dm-operations-center) > [Combat](combat) > Bonus Action {.small-text}
+[Home](dm-operations-center) > [Combat](combat-menu) > Bonus Action {.small-text}
 
 - Available if ability, spell, or feature allows.
 - Occurs at any point in a character's turn.
 {.square}
 
 **Common Examples**
-- Off-hand Attack. (two weapon fighting)
+- Off-hand Attack. ([two-weapon fighting](two-weapon-fighting))
 - Cast [Healing Word](/spell/healing-word) or [Hunter's Mark](/spell/hunters-mark)
-- Dash, disengage, or dodge (Rogues)
-- Wild Shape (Circle of the Moon Druid)
+- [Dash](dash), [disengage](disengage), or [dodge](dodge) (Rogues)
+- [Wild Shape](wild-shape) (Circle of the Moon Druid)
 {.square}
 
 > **MrFarland House Rule**<br/>
-> Drinking a **regular** healing potion is a bonus action, but taking any other potion requires a use object action.
+> Drinking a **regular** [healing potion](/item/potion-of-healing) is a [bonus action](bonus-action), but taking any other potion requires a use object action.
 {.flavortext}
 
 > **Sources** <br/>

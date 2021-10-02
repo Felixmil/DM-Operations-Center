@@ -4,12 +4,12 @@ slug: concentration
 parent: spellcasting
 ---
 ### Concentration
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > Concentration {.small-text}
+[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Concentration {.small-text}
 
 A caster loses **concentration** when they:
-- cast another concentration spell,
-- become incapacitated or killed,
-- takes damage from an attack or effect.
+- Cast another concentration spell.
+- Become [incapacitated](incapacitated) or killed.
+- Takes damage from an attack or effect.
 {.square}
 
 > **Sources** <br/>

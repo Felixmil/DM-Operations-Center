@@ -4,11 +4,11 @@ slug: deception
 parent: charisma
 ---
 ### Deception
-[Home](dm-operations-center) > [Abilities](abilities) > [Charisma](charisma) > Deception {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > [Charisma](charisma) > Deception {.small-text}
 
 Ability to lie or otherwise hide the truth.
 
-| ~DC~ | ~Example~                                 |
+| [DC](difficulty-class) | Example                 |
 | :--: | :---------------------------------------- |
 |  10  | Keep a straight face while telling a lie. |
 |  15  | Convince someone an item is very valuable |

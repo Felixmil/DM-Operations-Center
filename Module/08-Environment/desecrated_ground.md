@@ -4,11 +4,11 @@ slug: desecrated-ground
 parent: environment
 ---
 ### Desecrated Ground
-[Home](dm-operations-center) > [Environment](environment) > Desecrated Ground {.small-text}
+[Home](dm-operations-center) > [Environment](environment-menu) > Desecrated Ground {.small-text}
 
-Undead creatures on desecrated ground have advantage on all saving throws.
+Undead creatures on desecrated ground have [advantage](advantage-and-disadvantage) on all [saving throws](saving-throws).
 
-A vial of holy water purifies a 10 foot square when sprinkled on it and the [hallow](/spell/hallow) purifies the ground within it's area of effect.
+A [flask of holy water](/item/holy-water-flask) purifies a 10-foot square when sprinkled on it, and the [hallow](/spell/hallow) purifies the ground within its area of effect.
 
 > **Sources** <br/>
 > Dungeon Master's Guide, p. 110

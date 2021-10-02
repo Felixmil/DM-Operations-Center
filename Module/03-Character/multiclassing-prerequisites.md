@@ -2,27 +2,26 @@
 name: Multiclassing Prerequisites
 slug: multiclassing-prerequisites
 parent: multiclassing
-order: 02
 ---
 ### Multiclassing Prerequisites
 
-[Home](dm-operations-center) > [Characters](characters) > [Multiclassing](multiclassing) > Prerequisites {.small-text}
+[Home](dm-operations-center) > [Characters](character-menu) > [Multiclassing](multiclassing) > Prerequisites {.small-text}
 
-|           |                |
-| --------- | -------------- |
-| Artificer | INT 13         |
-| Barbarian | STR 13         |
-| Bard      | CHA 13         |
-| Cleric    | WIS 13         |
-| Druid     | WIS 13         |
-| Fighter   | STR or DEX 13  |
-| Monk      | DEX and WIS 13 |
-| Paladin   | STR and CHA 13 |
-| Ranger    | DEX and WIS 13 |
-| Rogue     | DEX 13         |
-| Sorcerer  | CHA 13         |
-| Warlock   | CHA 13         |
-| Wizard    | INT 13         |
+|||
+| :-------- | :-------------------------------------- |
+| Artificer | [INT](intelligence) 13                  |
+| Barbarian | [STR](STRENGTH) 13                      |
+| Bard      | [CHA](CHARISMA) 13                      |
+| Cleric    | [WIS](wisdom) 13                        |
+| Druid     | [WIS](wisdom) 13                        |
+| Fighter   | [STR](STRENGTH) or [DEX](DEXTERITY) 13  |
+| Monk      | [DEX](DEXTERITY) and [WIS](wisdom) 13   |
+| Paladin   | [STR](STRENGTH) and [CHA](CHARISMA) 13  |
+| Ranger    | [DEX](DEXTERITY) and [WIS](wisdom) 13   |
+| Rogue     | [DEX](DEXTERITY) 13                     |
+| Sorcerer  | [CHA](CHARISMA) 13                      |
+| Warlock   | [CHA](CHARISMA) 13                      |
+| Wizard    | [INT](intelligence) 13                  | 
 {.gray .small-text}
 
 > **Sources** <br/>

@@ -17,14 +17,15 @@ parent: dm-operations-center
 </div>
 <hr/>
 <div class="menu-container">
-    <a href="ability-check">Ability<br/> Check</a>
-    <a href="ability-modifier">Ability<br/> Modifiers</a>
+    <a href="ability-checks">Ability<br/> Checks</a>
+    <a href="ability-modifiers">Ability<br/> Modifiers</a>
+    <a href="alternate-abilities">Alternate<br/> Abilities</a>
     <a href="advantage-and-disadvantage">Advantage &<br/> Disadvantage</a>
-    <a href="contest">Contest</a>
+    <a href="contests">Contests</a>
     <a href="difficulty-class">Difficulty<br/> Class</a>
-    <a href="group-check">Group<br/> Check</a>
-    <a href="passive-check">Passive<br/> Check</a>
-    <a href="saving-throw">Saving<br/> Throw</a>
+    <a href="group-checks">Group<br/> Checks</a>
+    <a href="passive-checks">Passive<br/> Checks</a>
+    <a href="saving-throws">Saving<br/> Throws</a>
     <a href="working-together">Working<br/> Together</a>
 </div>
 <hr/>

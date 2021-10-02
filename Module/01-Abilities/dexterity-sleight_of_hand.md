@@ -4,11 +4,11 @@ slug: sleight-of-hand
 parent: dexterity
 ---
 ### Sleight of Hand
-[Home](dm-operations-center) > [Abilities](abilities) > [Dexterity](dexterity) > Sleight of Hand {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > [Dexterity](dexterity) > Sleight of Hand {.small-text}
 
 Perform manual trickery without being detected.
 
-| ~DC~ | ~Example~                                 |
+| [DC](difficulty-class) | Example                 |
 | :--: | :---------------------------------------- |
 |  10  | Plant evidence in someone's pocket.       |
 |  15  | Pick another person's pocket.             |

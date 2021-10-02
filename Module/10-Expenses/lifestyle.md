@@ -4,9 +4,9 @@ slug: lifestyle
 parent: expenses
 ---
 ### Lifestyle
-[Home](dm-operations-center) > [Expenses](expenses) > Lifestyle {.small-text}
+[Home](dm-operations-center) > [Expenses](expenses-menu) > Lifestyle {.small-text}
 
-|              |        |
+|||
 | :----------- | -----: |
 | Wretched     |      - |
 | Squalid      |   1 sp |
@@ -18,6 +18,6 @@ parent: expenses
 {.gray .small-text}
 
 > **Sources** <br/>
-> System Reference Document, p. XXX<br/>
+> System Reference Document, p. 72-73<br/>
 > Player's Handbook, p. 157
 {.read .small-text}

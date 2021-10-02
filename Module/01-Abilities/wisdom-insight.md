@@ -4,11 +4,11 @@ slug: insight
 parent: wisdom
 ---
 ### Insight
-[Home](dm-operations-center) > [Abilities](abilities) > [Wisdom](wisdom) > Insight {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > [Wisdom](wisdom) > Insight {.small-text}
 
 Ability to determine the true intentions of a creature.
 
-| ~DC~ | ~Example~                         |
+| [DC](difficulty-class) | Example         |
 | :--: | :-------------------------------- |
 |  10  | Determine if a friend is lying.   |
 |  15  | Read someone's body language.     |

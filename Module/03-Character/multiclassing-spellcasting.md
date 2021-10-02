@@ -2,25 +2,24 @@
 name: Multiclassing Spellcasting
 slug: multiclassing-spellcasting
 parent: multiclassing
-order: 02
 ---
 
 ### Multiclassing Spellcasting
-[Home](dm-operations-center) > [Characters](characters) > [Multiclassing](multiclassing) > Spellcasting {.small-text}
+[Home](dm-operations-center) > [Characters](character-menu) > [Multiclassing](multiclassing) > Spellcasting {.small-text}
 
-Caster Level = Total # of Spellcaster Levels {.text-center}
+**Caster Level = Total # of Spellcaster Levels** {.text-center}
 
-|   ~#~   | ~Per~ ~Level~ ~of~                    |
+|    #    | Per Level of                          |
 | :-----: | ------------------------------------- |
 |    1    | Bard, Cleric, Druid, Sorcerer, Wizard |
 | ^1^/~2~ | Artificer, Paladin, Ranger            |
 | ^1^/~3~ | Eldritch Knight, Arcane Trickster     |
 {.gray .small-text}
 
-*(ie. Druid (4), Ranger (3), Arcane Trickster (3) = 7)* {.text-center .small-text}
+*(i.e. Druid (4), Ranger (3), Arcane Trickster (3) = 7)* {.text-center .small-text}
 
 
-**Spell Slots per Spell Level** {.small-text}
+#### Spell Slots per Spell Level
 
 | Lvl |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -47,7 +46,7 @@ Caster Level = Total # of Spellcaster Levels {.text-center}
 {.gray .small-text}
 
 - Known/prepared based on class level.
-- Warlocks with Pact Magic & Spellcasting, can use warlock slots to cast spells from other classes. 
+- Warlocks with Pact Magic & Spellcasting can use warlock slots to cast spells from other classes. 
 {.square}
 
 > **Sources** <br/>

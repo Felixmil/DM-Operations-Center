@@ -4,11 +4,13 @@ slug: forced-march
 parent: movement
 ---
 ### Forced March
-[Home](dm-operations-center) > [Movement](movement) > Forced March {.small-text}
+[Home](dm-operations-center) > [Movement](movement-menu) > Forced March {.small-text}
 
-**1pt [Exhaustion](exhaustion) = DC10 CON over 8 hours** {.text-center}
+**1pt [Exhaustion](exhaustion) = [DC](difficulty-class) 10 [CON](CONSTITUTION) over 8 hours** {.text-center}
 
-The DC increases by 1 for each additional hour beyond 8 hours.
+The [DC](difficulty-class) increases by 1 for each additional hour beyond 8 hours.
+
+Vehicle passengers are not subject to this restriction.
 
 > **Sources** <br/>
 > System Reference Document, p. 84<br/>

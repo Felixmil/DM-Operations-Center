@@ -4,11 +4,11 @@ slug: arcana
 parent: intelligence
 ---
 ### Arcana
-[Home](dm-operations-center) > [Abilities](abilities) > [Intelligence](intelligence) > Arcana {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > [Intelligence](intelligence) > Arcana {.small-text}
 
 Knowledge of all things magical and the planes.
 
-| ~DC~ | ~Example~                           |
+| [DC](difficulty-class) | Example           |
 | :--: | :---------------------------------- |
 |  10  | Recall lore about a famous mage.    |
 |  15  | Identify a legendary magical item.  |

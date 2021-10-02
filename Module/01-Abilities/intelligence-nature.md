@@ -4,11 +4,11 @@ slug: nature
 parent: intelligence
 ---
 ### Nature
-[Home](dm-operations-center) > [Abilities](abilities) > [Intelligence](intelligence) > Nature {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > [Intelligence](intelligence) > Nature {.small-text}
 
 Knowledge of the world, geography, and creatures.
 
-| ~DC~ | ~Example~                                  |
+| [DC](difficulty-class) | Example                  |
 | :--: | :----------------------------------------- |
 |  10  | Recognize the signs of bad weather coming. |
 |  15  | Identify an uncommon plant or rock.        |

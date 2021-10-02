@@ -4,11 +4,11 @@ slug: stealth
 parent: dexterity
 ---
 ### Stealth
-[Home](dm-operations-center) > [Abilities](abilities) > [Dexterity](dexterity) > Stealth {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > [Dexterity](dexterity) > Stealth {.small-text}
 
-Ability to move and hide without being detected
+Ability to move and [hide](hiding) without being detected.
 
-| ~DC~ | ~Example~                                    |
+| [DC](difficulty-class) | Example                    |
 | :--: | :------------------------------------------- |
 |  10  | Slip out of a crowd without being noticed.   |
 |  15  | Sneak up on a guard to knock them out.       |

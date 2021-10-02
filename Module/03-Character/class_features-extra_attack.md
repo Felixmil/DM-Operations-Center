@@ -4,13 +4,13 @@ slug: extra-attack
 parent: class-features
 ---
 ### Extra Attack
-[Home](dm-operations-center) > [Characters](characters) > [Class Features](class-featuers) > Extra Attack {.small-text}
+[Home](dm-operations-center) > [Characters](character-menu) > [Class Features](class-features) > Extra Attack {.small-text}
 
-A creaature with this feature may make a second melee or ranged attack whenever they use their action to make an attack.
+A creature with this feature may make a second [melee](attack-melee) or [ranged attack](attack-ranged) whenever they use their [action](action) to make an attack.
 
 Extra Attack cannot be used with:
-- a bonus action attack.
-- a weapon that has the loading property.
+- A [bonus action](bonus-action) attack.
+- A weapon that has the [loading](weapon-properties) property.
 {.square}
 
 > **Sources** <br/>

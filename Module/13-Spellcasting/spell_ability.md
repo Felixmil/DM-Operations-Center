@@ -4,21 +4,23 @@ slug: spell-ability
 parent: spellcasting
 ---
 ### Spell Ability
-[Home](dm-operations-center) > [Spellcasting](spellcasting) > Spell Ability {.small-text}
+[Home](dm-operations-center) > [Spellcasting](spellcasting-menu) > Spell Ability {.small-text}
 
-|              |              |
-| ------------ | ------------ |
-| Artificer    | Intelligence |
-| Bard         | Charisma     |
-| Cleric       | wisdom       |
-| Druid        | wisdom       |
-| Fighter (EK) | Intelligence |
-| Paladin      | Charisma     |
-| Ranger       | wisdom       |
-| Rogue (AT)   | Intelligence |
-| Sorcerer     | Charisma     |
-| Warlock      | Charisma     |
-| Wizard       | Intelligence |
+Spell Ability Mod. = Spell Ability + [Proficiency Bonus](proficiency-bonus) {.text-center}
+
+| Spellcasting Ability by Class ||
+| :----------- | :--------------------------- |
+| Artificer    | [Intelligence](intelligence) |
+| Bard         | [Charisma](charisma)         |
+| Cleric       | [Wisdom](wisdom)             |
+| Druid        | [Wisdom](wisdom)             |
+| Fighter (EK) | [Intelligence](intelligence) |
+| Paladin      | [Charisma](charisma)         |
+| Ranger       | [Wisdom](wisdom)             |
+| Rogue (AT)   | [Intelligence](intelligence) |
+| Sorcerer     | [Charisma](charisma)         |
+| Warlock      | [Charisma](charisma)         |
+| Wizard       | [Intelligence](intelligence) |
 {.gray .small-text}
 
 > **Sources** <br/>

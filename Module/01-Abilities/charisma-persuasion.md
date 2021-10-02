@@ -4,11 +4,11 @@ slug: persuasion
 parent: charisma
 ---
 ### Persuasion
-[Home](dm-operations-center) > [Abilities](abilities) > [Charisma](charisma) > Persuasion {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > [Charisma](charisma) > Persuasion {.small-text}
 
-Influence others with logic, tact or good nature.
+Influence others with logic, tact, or good nature.
 
-| ~DC~ | ~Example~                                 |
+| [DC](difficulty-class) | Example                 |
 | :--: | :---------------------------------------- |
 |  10  | Negotiate a better price from a merchant. |
 |  15  | Convince someone to lend you their aid.   |

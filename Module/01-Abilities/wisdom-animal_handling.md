@@ -4,11 +4,11 @@ slug: animal-handling
 parent: wisdom
 ---
 ### Animal Handling
-[Home](dm-operations-center) > [Abilities](abilities) > Animal Handling {.small-text}
+[Home](dm-operations-center) > [Abilities](abilities-menu) > [Wisdom](wisdom) > Animal Handling {.small-text}
 
-Ability to interact with, control & understand animals.
+Ability to interact with, control, and understand animals.
 
-| ~DC~ | ~Example~                                     |
+| [DC](difficulty-class) | Example                     |
 | :--: | :-------------------------------------------- |
 |  10  | Calm a mount or domesticated animal.          |
 |  15  | Safely approach a sick, scared animal         |

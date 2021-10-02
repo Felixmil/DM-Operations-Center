@@ -4,12 +4,15 @@ slug: puzzles
 parent: encounters
 ---
 ### Puzzles
-[Home](dm-operations-center) > [Encounters](encounters) > Puzzles {.small-text}
+[Home](dm-operations-center) > [Encounters](encounters-menu) > Puzzles {.small-text}
+
+**Coming in a future release.** {.text-center}
+
 
 **Easy** 
 <div class="menu-container">
     <a href="creature-painting">Creature Painting</a>
-    <a href="reckless-steps">Reckless Steps</a>
+    <a href="restless-steps">Restless Steps</a>
     <a href="skeleton-keys">Skeleton Keys</a>
 </div>
 
